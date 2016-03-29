@@ -1,0 +1,5 @@
+I also use the following functions:
+
+http://www.mathworks.com/matlabcentral/fileexchange/11871-signal-rms
+
+http://www.mathworks.com/matlabcentral/fileexchange/181-keep
